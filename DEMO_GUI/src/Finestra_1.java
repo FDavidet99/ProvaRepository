@@ -54,7 +54,7 @@ public class Finestra_1 extends JFrame {
 		CancellaTesto_Button.setBounds(233, 79, 109, 34);
 		contentPane.add(CancellaTesto_Button);
 		CancellaTesto_Button.addActionListener(new ActionListener() {
-			public void actionPerformed(ActionEvent e) {
+			public void actionPerformed(ActionEvent a) {
 				// ho aggiunto un commento
 			}
 		});
