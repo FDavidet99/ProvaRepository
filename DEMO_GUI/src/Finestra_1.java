@@ -55,14 +55,6 @@ public class Finestra_1 extends JFrame {
 		contentPane.add(CancellaTesto_Button);
 		CancellaTesto_Button.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-<<<<<<< HEAD
-				Prova_textField.setText("ciao ciao");
-=======
-				Prova_textField.setText("");
->>>>>>> parent of ecd468f... Update Finestra_1.java
-=======
-				Prova_textField.setText("");
->>>>>>> parent of ecd468f... Update Finestra_1.java
 			}
 		});
 		CancellaTesto_Button.setFont(new Font("Calibri", Font.PLAIN, 12));
