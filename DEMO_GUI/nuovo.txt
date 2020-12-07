@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-ciao rimosso!
-nuovo testo nuovo testo 1234567810
-aggiungo questo
-=======
->>>>>>> parent of 36b67da... Update nuovo.txt
