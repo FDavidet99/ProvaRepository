@@ -50,7 +50,7 @@ public class Finestra_1 extends JFrame {
 		contentPane.add(Prova_textField);
 		Prova_textField.setColumns(10);
 		
-		JButton CancellaTesto_Button = new JButton("Cancella ");
+		JButton CancellaTesto_Button = new JButton("Cancella");
 		CancellaTesto_Button.setBounds(233, 79, 109, 34);
 		contentPane.add(CancellaTesto_Button);
 		CancellaTesto_Button.addActionListener(new ActionListener() {
