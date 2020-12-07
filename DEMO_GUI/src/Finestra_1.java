@@ -55,7 +55,7 @@ public class Finestra_1 extends JFrame {
 		contentPane.add(CancellaTesto_Button);
 		CancellaTesto_Button.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				Prova_textField.setText("ho resettato il testo");
+				Prova_textField.setText("ciao ciao");
 			}
 		});
 		CancellaTesto_Button.setFont(new Font("Calibri", Font.PLAIN, 12));
