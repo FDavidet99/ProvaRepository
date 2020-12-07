@@ -61,6 +61,7 @@ public class Finestra_1 extends JFrame {
 				Prova_textField.setText("");
 >>>>>>> parent of ecd468f... Update Finestra_1.java
 =======
+				Prova_textField.setText("");
 >>>>>>> parent of ecd468f... Update Finestra_1.java
 			}
 		});
