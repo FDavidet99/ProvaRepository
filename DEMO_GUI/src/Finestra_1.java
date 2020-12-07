@@ -28,8 +28,9 @@ public class Finestra_1 extends JFrame {
 				try {
 					Finestra_1 frame = new Finestra_1();
 					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
+				} catch (Exception banana) {
+					banana.printStackTrace();
+					//adjajdaudbdiuauidaiufiufuiwfhuiwefuiwfui
 				}
 			}
 		});
